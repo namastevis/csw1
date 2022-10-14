@@ -1,4 +1,8 @@
 # csw1
 
-Assignment-1 (08/10/22)
-Link: https://web.archive.org/web/20180819202235js_/http://seanhalpin.io/
+# Practice
+1. 08/10/22 - Link: https://web.archive.org/web/20180819202235js_/http://seanhalpin.io/
+
+# Assignment
+1. 13/10/22 - HTML
+2. 14/10/22 - CSS
